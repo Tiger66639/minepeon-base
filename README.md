@@ -1,6 +1,6 @@
 minepeon-base
 =============
-
+[![Build Status](https://travis-ci.org/Tiger66639/minepeon-base.svg)](https://travis-ci.org/Tiger66639/minepeon-base)
 To make the MinePeon user;-
 
 groupadd -g 500 minepeon
